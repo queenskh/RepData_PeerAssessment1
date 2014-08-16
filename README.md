@@ -7,6 +7,7 @@ It is now possible to collect a large amount of data about personal movement usi
 This assignment makes use of data from a personal activity monitoring device. This device collects data at 5 minute intervals through out the day. The data consists of two months of data from an anonymous individual collected during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each day.
 
 Data
+====
 
 The data for this assignment can be downloaded from the course web site:
 
@@ -22,6 +23,7 @@ interval: Identifier for the 5-minute interval in which measurement was taken
 The dataset is stored in a comma-separated-value (CSV) file and there are a total of 17,568 observations in this dataset.
 
 Assignment
+==========
 
 This assignment will be described in multiple parts. You will need to write a report that answers the questions detailed below. Ultimately, you will need to complete the entire assignment in a single R markdown document that can be processed by knitr and be transformed into an HTML file.
 
@@ -75,11 +77,11 @@ Create a new factor variable in the dataset with two levels -- "weekday" and "we
 
 Make a panel plot containing a time series plot (i.e. type = "l") of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis). The plot should look something like the following, which was creating using simulated data:
 
-Sample panel plot
 
 Your plot will look different from the one above because you will be using the activity monitor data. Note that the above plot was made using the lattice system but you can make the same version of the plot using any plotting system you choose.
 
 Submitting the Assignment
+=========================
 
 To submit the assignment:
 
