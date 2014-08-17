@@ -157,7 +157,7 @@ names(mean.steps ) <- c("interval", "day_type", "steps")
 xyplot(steps ~ interval | day_type, mean.steps, type = "l", layout = c(1, 2), xlab = "Interval", ylab = "Number of steps")
 ```
 
-![plot of chunk unnamed-chunk-11](figure/unnamed-chunk-11.png) 
+https://cloud.githubusercontent.com/assets/8277475/3943323/2383d24c-2598-11e4-8868-f2697a67b7b1.png
 
 
 
