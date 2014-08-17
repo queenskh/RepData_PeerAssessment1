@@ -130,8 +130,7 @@ median(new.steps.date$steps, na.rm = T)
 ```r
 hist(new.steps.date$steps, col ='cyan', xlab = "Steps in a day",main = "Steps taken for given day",breaks = 20)
 ```
-
-![plot of chunk unnamed-chunk-9](figure/unnamed-chunk-9.png) 
+https://cloud.githubusercontent.com/assets/8277475/3943316/db51666a-2597-11e4-9da3-1fabf298f36b.png
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
